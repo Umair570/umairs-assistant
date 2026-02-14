@@ -1,0 +1,27 @@
+# --- Python Internals (Junk) ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environment (Dependencies) ---
+# Never upload this. Others will install deps via pip.
+venv/
+env/
+
+# --- Heavy AI Models ---
+# The Vosk model is 50MB - 1GB+. GitHub has a 100MB limit.
+# Users should download this themselves.
+model/
+
+# --- Local Databases & Logs ---
+# Keeps your command history private.
+database/
+*.db
+*.log
+
+# --- IDE Settings (Optional but Recommended) ---
+.vscode/
+.idea/
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db

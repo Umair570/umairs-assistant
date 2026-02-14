@@ -1,0 +1,10 @@
+vosk
+sounddevice
+numpy
+thefuzz
+pyttsx3
+colorama
+customtkinter
+Pillow
+keyboard
+pystray
