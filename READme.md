@@ -61,12 +61,12 @@ python main.py
 Note: The first launch may take 30-60 seconds if you are using the large model.
 
 **Voice Commands:**
-"System Wake Up"	Activates the assistant from Sleep Mode.
-"Go to Sleep"	Mutes the mic and minimizes to tray.
-"Open [App Name]"	Launches any app (e.g., "Open Chrome", "Open Calculator").
-"Create file [Name]"	Creates a file on your Desktop (e.g., "Create file notes").
-"Search for [Query]"	Googles the topic (e.g., "Search for Python tutorials").
-"Terminate System"	Completely closes the application.
+1."System Wake Up"	Activates the assistant from Sleep Mode.
+2."Go to Sleep"	Mutes the mic and minimizes to tray.
+3."Open [App Name]"	Launches any app (e.g., "Open Chrome", "Open Calculator").
+4."Create file [Name]"	Creates a file on your Desktop (e.g., "Create file notes").
+5."Search for [Query]"	Googles the topic (e.g., "Search for Python tutorials").
+6."Terminate System"	Completely closes the application.
 
 **Safety & Privacy**
 This assistant is designed with a Security Layer that intercepts commands before execution. It explicitly blocks destructive commands like file deletion or formatting drives.
